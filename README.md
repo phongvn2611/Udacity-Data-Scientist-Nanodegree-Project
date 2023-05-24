@@ -17,9 +17,9 @@ I analysed the interactions that users have with articles on the IBM Watson Stud
 
 ## Project 4: Starbucks challenge capstone
 I used some library of Python to analysis about Starbucks mobile app offers. The project involved:
-- Loading and cleaning three datasets of Starbucks
-- Conducting Exploratory Data Analysis and answer some questions to understand datasets
-- Feature selection to select features that will be used in the modelling process
+- Loading and cleaning three datasets of Starbucks.
+- Conducting Exploratory Data Analysis and answer some questions to understand datasets.
+- Feature selection to select features that will be used in the modelling process.
 - Modelling using machine learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbors (KNN).     
 [Link to notebook](https://github.com/phongvn2611/Udacity-Data-Scientist-Nanodegree-Project/blob/main/Starbucks-Challenge-Capstone/Starbucks_Capstone_notebook.ipynb)     
 [Link to blog post](https://medium.com/@phongvn2611/starbucks-mobile-app-offer-analysis-b25d4d5d5c6b)

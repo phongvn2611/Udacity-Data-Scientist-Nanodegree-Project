@@ -66,6 +66,9 @@ All of these modules can be installed by using the Anaconda package.
 ## Instructions
 Run the codes inside Jupyter notebook to complete the project.
 
+## Medium Blog Post 
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@phongvn2611/starbucks-mobile-app-offer-analysis-b25d4d5d5c6b)
+
 ## Acknowledgements
 
 * [Udacity](https://www.udacity.com/) for providing an excellent Data Scientist training program.

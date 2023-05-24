@@ -58,7 +58,8 @@ This file contains event log information. Complementing the file above, this fil
 * Pandas
 * Numpy
 * Matplotlib
-* Pickle
+* Seaborn
+* Scikit-learn
 
 All of these modules can be installed by using the Anaconda package.
 

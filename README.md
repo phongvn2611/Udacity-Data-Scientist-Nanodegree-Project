@@ -15,7 +15,7 @@ I applied my data engineering skills to analyze disaster data from [Figure Eight
 I analysed the interactions that users have with articles on the IBM Watson Studio platform and made recommendations to them about new articles I thought they'd like. I performed EDA, Rank Based Recommendations, User-user Based Collaborative Filtering, and Matrix factorisation.     
 [Link to notebook](https://github.com/phongvn2611/Udacity-Data-Scientist-Nanodegree-Project/blob/main/Recommendations-With-IBM/Recommendations_with_IBM.ipynb)
 
-## Project 4: Starbucks challenge capstone
+## Project 4: Starbucks Challenge Capstone
 I used some library of Python to analysis about Starbucks mobile app offers. The project involved:
 - Loading and cleaning three datasets of Starbucks.
 - Conducting Exploratory Data Analysis and answer some questions to understand datasets.
